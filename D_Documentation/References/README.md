@@ -1,0 +1,1 @@
+This folder contains references and credits for external assets used in the project, including 3D models, images, music, and sound effects. Creator details, licenses, and usage information will be added as they are verified.
