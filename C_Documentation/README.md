@@ -1,4 +1,4 @@
-# D · Documentation
+# C · Documentation
 
 This section will contain the user manual, testing records,
 development evidence, and project references.

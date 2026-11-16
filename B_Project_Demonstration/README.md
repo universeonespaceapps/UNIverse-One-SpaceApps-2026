@@ -1,4 +1,4 @@
-# C · Project Demonstration
+# B · Project Demonstration
 
 This section will present the game demonstration and the playable
 version of the project.
